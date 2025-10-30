@@ -1,4 +1,5 @@
 💻 Laptop Price Prediction for SmartTech Co.
+
 📘 Project Overview
 
 This project focuses on developing a machine learning model to predict laptop prices based on multiple features such as brand, specifications, storage, RAM, processor, and display type. SmartTech Co. collaborated with our data science team to create an accurate and interpretable pricing system that helps in strategic market positioning and competitive pricing in the rapidly evolving tech market.
